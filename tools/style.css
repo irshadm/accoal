@@ -69,9 +69,9 @@ background: url(../images/bg.png) left top repeat;
 	margin-right: 50px;
 }
 
-.right-section{
+.main-section{
 	width: 50%;
-	float: left;
+	margin: auto;
 }
 
 
